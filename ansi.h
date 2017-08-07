@@ -17,6 +17,7 @@ namespace ansi
     const std::string LIGHTYELLOW = "\e[93m";
     const std::string LIGHTMAGENTA = "\e[95m";
     const std::string LIGHTCYAN = "\e[96m";
+    const std::string DEFAULT = "\e[39m";
 }
 
 #endif // ANSI_H
